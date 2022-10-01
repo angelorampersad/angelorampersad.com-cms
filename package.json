@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "@sanity/base": "^2.33.3",
+    "@sanity/cli": "^2.34.0",
     "@sanity/core": "^2.33.3",
     "@sanity/default-layout": "^2.33.3",
     "@sanity/default-login": "^2.33.3",
@@ -28,8 +29,5 @@
     "react-dom": "^17.0",
     "sanity-plugin-markdown": "^2.1.1",
     "styled-components": "^5.2.0"
-  },
-  "devDependencies": {
-    "@sanity/cli": "^2.34.0"
   }
 }
