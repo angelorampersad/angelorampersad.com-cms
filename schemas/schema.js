@@ -10,6 +10,6 @@ export default createSchema({
   types: schemaTypes.concat([
 		animal,
     post,
-    // snippet
+    snippet
   ]),
 });
